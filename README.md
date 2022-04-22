@@ -22,10 +22,8 @@
 1. Make sure you have Node.js version >= 13.
 
 ### Install
-
+Clone the repository into your system and open the directory and run this command to install all dependencies
 ```
-git clone https://github.com/your-username/newsapp
-cd newsapp
 npm install
 ```
 
