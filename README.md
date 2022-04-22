@@ -2,7 +2,7 @@
 
 ### Your daily go-to react app to find happenings around the world 
 
-<p><i><b>News with different categories provided from NEWSAPI fetched to your screen</b></i></p>
+<p><i><b>News of different categories provided from NEWSAPI fetched to your screen</b></i></p>
 
 ![newsapp capture-1](https://user-images.githubusercontent.com/64327599/164615778-48216106-c80c-4997-8a4a-c964d054f9fd.PNG)
 
